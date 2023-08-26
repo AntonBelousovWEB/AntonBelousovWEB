@@ -15,6 +15,8 @@ I'm a Full-stack javascript developer with 3 years of experience. 🚀
 | Next.js           |                    | Tailwind            |
 | Apollo Client     |                    | Sass                |
 
+---
+
 I love working on new and exciting projects, and I'm always eager to learn new technologies.
 If you have interesting ideas, let's bring them to life in code! 💡
 
