@@ -16,7 +16,7 @@ I'm a Full-stack javascript developer with 3 years of experience. 🚀
 | Apollo Client     |                    | Sass                |
 
 ---
-![Anton GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 ---
 
 I love working on new and exciting projects, and I'm always eager to learn new technologies.
