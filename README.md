@@ -1,16 +1,25 @@
-### Hi there 👋
+# 👋 Hello, I'm Anton!
 
-<!--
-**AntonBeloysovWEB/AntonBeloysovWEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-stack javascript developer with 3 years of experience. 🚀
 
-Here are some ideas to get you started:
+## My Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Frontend          | Backend            | Common              |
+|-------------------|--------------------|---------------------|
+| HTML              | Node.js            | Git - Github        |
+| CSS | Sass        | PostgreSQL, MongoDB| NPM | Yarn | Pnpm   |
+| React             | Prisma             | Firebase            |
+| Typescript        | GraphQL, Apollo    | Netlify             |
+| Redux, RTK        |                    | Ant Design          |
+| React Router      |                    | Vite                |
+| Next.js           |                    |                     |
+| Axios             |                    |                     |
+| Apollo Client - GraphQL|               |                     |
+
+I love working on new and exciting projects, and I'm always eager to learn new technologies. If you have interesting ideas, let's bring them to life in code! 💡
+
+Get in touch:
+- Email: polpoltrop228@gmail.com
+- Telegram: [@BORODACHHHH](https://t.me/BORODACHHHH)
+
+Welcome to my profile! I'm open to collaboration and sharing experiences. 😊
