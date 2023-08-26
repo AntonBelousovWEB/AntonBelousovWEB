@@ -1,3 +1,5 @@
+<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
+
 # 👋 Hello, I'm Anton!
 
 I'm a Full-stack javascript developer with 3 years of experience. 🚀
