@@ -15,7 +15,8 @@ I'm a Full-stack javascript developer with 3 years of experience. 🚀
 | Next.js           |                    |                     |
 | Apollo Client     |                    |                     |
 
-I love working on new and exciting projects, and I'm always eager to learn new technologies.\nIf you have interesting ideas, let's bring them to life in code! 💡
+I love working on new and exciting projects, and I'm always eager to learn new technologies.
+If you have interesting ideas, let's bring them to life in code! 💡
 
 Get in touch:
 - Email: polpoltrop228@gmail.com
