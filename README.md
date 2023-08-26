@@ -9,8 +9,8 @@ I'm a Full-stack javascript developer with 3 years of experience. 🚀
 | HTML              | Node.js            | Git - Github        |
 | CSS | Sass        | PostgreSQL, MongoDB| NPM | Yarn | Pnpm   |
 | React             | Prisma             | Firebase            |
-| Typescript        | GraphQL, Apollo    | Netlify             |
-| Redux, RTK        |                    | Ant Design          |
+| Typescript        | GraphQL            | Netlify             |
+| Redux, RTK        | Apollo             | Ant Design          |
 | React Router      |                    | Vite                |
 | Next.js           |                    |                     |
 | Axios             |                    |                     |
