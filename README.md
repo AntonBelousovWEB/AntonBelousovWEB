@@ -7,11 +7,11 @@ I'm a Full-stack javascript developer with 3 years of experience. 🚀
 | Frontend          | Backend            | Common              |
 |-------------------|--------------------|---------------------|
 | HTML              | Node.js            | Git - Github        |
-| CSS | Sass        | PostgreSQL, MongoDB| NPM | Yarn | Pnpm   |
+| CSS | Sass        | PostgreSQL         | NPM | Yarn | Pnpm   |
 | React             | Prisma             | Firebase            |
 | Typescript        | GraphQL            | Netlify             |
 | Redux, RTK        | Apollo             | Ant Design          |
-| React Router      |                    | Vite                |
+| React Router      | MongoDB            | Vite                |
 | Next.js           |                    |                     |
 | Axios             |                    |                     |
 | Apollo Client - GraphQL|               |                     |
