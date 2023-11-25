@@ -13,7 +13,7 @@ I'm a Full-stack javascript developer with 3 years of experience. 🚀
 | Redux, RTK        | Apollo             | Ant Design          |
 | React Router      | MongoDB            | Vite                |
 | Next.js           | Express.js         | Tailwind            |
-| Apollo Client     |                    | Sass                |
+| Apollo Client     | Python - Flask     | Sass                |
 
 ---
 
