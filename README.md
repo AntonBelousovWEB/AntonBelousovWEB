@@ -14,7 +14,7 @@ I'm a Full-stack javascript developer with 3 years of experience. 🚀
 | React Router      | MongoDB            | Tailwind            |
 | Next.js           | Express.js         | RSA - AES - IV      |
 | Apollo Client     | Python - Flask     | Crypto - Forge      |
-| Ant Design        |                    |                     |
+| Ant Design        |                    | Docker              |
 | Styled Components |                    |                     |
 
 ---
