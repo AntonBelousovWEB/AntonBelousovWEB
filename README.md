@@ -1,6 +1,6 @@
 # <img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"> 👋 Hello, I'm Anton!
 
-I'm a Full-stack javascript developer with 3 years of experience. 🚀
+I am a Ukrainian frontend engineer with experience since October 2020.
 
 ## My Stack:
 
@@ -19,13 +19,6 @@ I'm a Full-stack javascript developer with 3 years of experience. 🚀
 
 ---
 
-I love working on new and exciting projects, and I'm always eager to learn new technologies.
-If you have interesting ideas, let's bring them to life in code! 💡
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonBelousovWEB&layout=compact&theme=shadow_blue)
-
 Get in touch:
 - Email: polpoltrop228@gmail.com
-- Telegram: [@BORODACHHHH](https://t.me/BORODACHHHH)
-
-Welcome to my profile! I'm open to collaboration and sharing experiences. 😊
+- Telegram: [@buenmuchachoo]([https://t.me/BORODACHHHH](https://t.me/buenmuchachoo))
