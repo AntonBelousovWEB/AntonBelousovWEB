@@ -21,4 +21,4 @@ I am a Ukrainian frontend engineer with experience since October 2020.
 
 Get in touch:
 - Email: polpoltrop228@gmail.com
-- Telegram: [@buenmuchachoo]([https://t.me/BORODACHHHH](https://t.me/buenmuchachoo))
+- Telegram: [@buenmuchachoo]([https://t.me/buenmuchachoo])
