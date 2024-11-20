@@ -2,7 +2,7 @@
 
 <div align="center">
     I am a Ukrainian software engineer with experience since October 2020.<br />
-    my personal blog: <span style="color: gray;">// sorry under development.</span><br />
+    my personal blog: <strong>// sorry under development.</strong><br />
 </div>
 
 ## My tech stack:
