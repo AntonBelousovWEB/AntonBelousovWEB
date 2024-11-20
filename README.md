@@ -1,7 +1,8 @@
 # <img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"> 👋 Hello, I'm Anton!
 
 <div align="center">
-    I am a Ukrainian software engineer with experience since October 2020.
+    I am a Ukrainian software engineer with experience since October 2020.<br />
+    my personal blog: <span style="color: gray;">// sorry under development.</span><br />
 </div>
 
 ## My tech stack:
