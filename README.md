@@ -2,7 +2,7 @@
 
 <div align="center">
     I am a Ukrainian software engineer with experience since October 2020.<br />
-    my personal blog: <code><strong>// sorry under development.</strong></code><br />
+    my personal blog: <code><a href="https://anton-belousov-cv.vercel.app/blog">#|- blog -|#</a></code><br />
 </div>
 
 ## My tech stack:
