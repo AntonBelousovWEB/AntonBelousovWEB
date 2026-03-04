@@ -13,7 +13,7 @@
   </a>
   <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo" />
+    <img src="https://i.gzn.jp/img/2024/11/18/css-new-logo/09.png" height="40" alt="css3 logo" />
   </a>
   <img width="12" />
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
